@@ -1,4 +1,5 @@
 {
+  "$schema": "https://living-code.dev/port.schema.json",
   "schemaVersion": 1,
   "name": "Neovim",
   "slug": "neovim",

@@ -141,7 +141,9 @@ Uses Neovim's Lua highlight API and true color. Includes Tree-sitter, LSP semant
 
 ## Contributing
 
-Report installation issues and include the application version and selected flavor. For visual changes, include a real application screenshot. Keep this README, `port.json` and `images/` in sync; do not add generated mockups.
+Found a problem? [Open an issue](https://github.com/living-code-theme/nvim/issues/new/choose) with the app version, the flavor and a screenshot. Want Living Code somewhere else? [Request a port](https://github.com/living-code-theme/core/issues/new?template=port-request.yml).
+
+Pull requests are welcome. Keep this README, `port.json` and `images/` in sync, and use real screenshots of the app, never mockups.
 
 🦎 **One chameleon, many habitats.** Part of [Living Code](https://github.com/living-code-theme).
 
