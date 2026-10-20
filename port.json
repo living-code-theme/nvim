@@ -3,6 +3,7 @@
   "name": "Neovim",
   "slug": "neovim",
   "group": "Editors",
+  "emoji": "📝",
   "description": "Living Code for Neovim. Four color flavors, Tree-sitter and LSP highlights, and lualine integration.",
   "homepage": "https://neovim.io",
   "quick": "Install with your plugin manager",

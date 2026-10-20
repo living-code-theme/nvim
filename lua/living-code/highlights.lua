@@ -115,7 +115,8 @@ function M.get(p, cfg)
     ["@variable.parameter"] = { fg = r.parameter, italic = true },
     ["@variable.parameter.builtin"] = { fg = r.builtin, italic = true },
     ["@variable.member"] = { fg = r.property },
-    ["@constant"] = { fg = r.constant },
+    -- Constant names (RADIUS) are names; constant values (true, nil) are @constant.builtin and @boolean.
+    ["@constant"] = { fg = r.variable },
     ["@constant.builtin"] = { fg = r.constant },
     ["@constant.macro"] = { fg = r.decorator },
     ["@module"] = { fg = r.namespace },
@@ -194,7 +195,7 @@ function M.get(p, cfg)
     ["@lsp.type.class"] = { link = "@type" },
     ["@lsp.type.decorator"] = { link = "@attribute" },
     ["@lsp.type.enum"] = { link = "@type" },
-    ["@lsp.type.enumMember"] = { link = "@constant" },
+    ["@lsp.type.enumMember"] = { link = "@property" },
     ["@lsp.type.function"] = { link = "@function" },
     ["@lsp.type.interface"] = { link = "@type" },
     ["@lsp.type.macro"] = { link = "@function.macro" },
