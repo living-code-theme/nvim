@@ -1,5 +1,5 @@
 <!-- living-code-readme:1 -->
-# Living Code for Neovim
+# 📝 Living Code for Neovim
 
 **Calm slate. Living color.** Living Code for Neovim. Four color flavors, Tree-sitter and LSP highlights, and lualine integration.
 
@@ -142,6 +142,8 @@ Uses Neovim's Lua highlight API and true color. Includes Tree-sitter, LSP semant
 ## Contributing
 
 Report installation issues and include the application version and selected flavor. For visual changes, include a real application screenshot. Keep this README, `port.json` and `images/` in sync; do not add generated mockups.
+
+🦎 **One chameleon, many habitats.** Part of [Living Code](https://github.com/living-code-theme).
 
 ## License
 
