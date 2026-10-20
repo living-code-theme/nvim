@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "name": "Neovim",
+  "slug": "neovim",
+  "group": "Editors",
+  "description": "Living Code for Neovim. Four color flavors, Tree-sitter and LSP highlights, and lualine integration.",
+  "homepage": "https://neovim.io",
+  "quick": "Install with your plugin manager",
+  "icon": "neovim",
+  "aliases": [
+    "nvim",
+    "vim",
+    "lazyvim",
+    "lua"
+  ],
+  "flavors": [
+    "night",
+    "frost",
+    "paper",
+    "signal"
+  ],
+  "files": [
+    "colors/living-code-frost.lua",
+    "colors/living-code-night.lua",
+    "colors/living-code-paper.lua",
+    "colors/living-code-signal.lua",
+    "colors/living-code.lua",
+    "lua/living-code/highlights.lua",
+    "lua/living-code/init.lua",
+    "lua/living-code/palettes/frost.lua",
+    "lua/living-code/palettes/night.lua",
+    "lua/living-code/palettes/paper.lua",
+    "lua/living-code/palettes/signal.lua",
+    "lua/lualine/themes/living-code.lua"
+  ],
+  "images": [
+    {
+      "flavor": "night",
+      "path": "images/night.png",
+      "alt": "Neovim running Living Code Night"
+    },
+    {
+      "flavor": "frost",
+      "path": "images/frost.png",
+      "alt": "Neovim running Living Code Frost"
+    },
+    {
+      "flavor": "paper",
+      "path": "images/paper.png",
+      "alt": "Neovim running Living Code Paper"
+    },
+    {
+      "flavor": "signal",
+      "path": "images/signal.png",
+      "alt": "Neovim running Living Code Signal"
+    }
+  ]
+}
