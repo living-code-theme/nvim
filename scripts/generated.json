@@ -1,0 +1,11 @@
+[
+  "colors/living-code-frost.lua",
+  "colors/living-code-night.lua",
+  "colors/living-code-paper.lua",
+  "colors/living-code-signal.lua",
+  "colors/living-code.lua",
+  "lua/living-code/palettes/frost.lua",
+  "lua/living-code/palettes/night.lua",
+  "lua/living-code/palettes/paper.lua",
+  "lua/living-code/palettes/signal.lua"
+]

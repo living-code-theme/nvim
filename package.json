@@ -1,0 +1,19 @@
+{
+  "name": "living-code-nvim",
+  "private": true,
+  "type": "module",
+  "version": "0.1.1",
+  "author": "Living Code",
+  "license": "MIT",
+  "packageManager": "pnpm@12.9.0",
+  "engines": {
+    "node": ">=22.22"
+  },
+  "scripts": {
+    "build": "node scripts/generate.mjs",
+    "check:generated": "node scripts/generate.mjs --check",
+    "palette:update": "node scripts/update-palette.mjs",
+    "check": "node scripts/generate.mjs --check",
+    "test": "node --test test/*.test.mjs"
+  }
+}
