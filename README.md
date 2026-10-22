@@ -168,7 +168,7 @@ Pull requests are welcome. Keep this README, `port.json` and `images/` in sync, 
 
 <div align="center">
 
-<a href="LICENSE"><img src="https://img.shields.io/github/license/living-code-theme/nvim?style=for-the-badge&amp;labelColor=2d3438&amp;color=a1cfe8&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYTFjZmU4IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTEyIDN2MThNNyAyMWgxME01IDdoMTRNMTIgM2wtMSA0aDJ6Ii8%2BPHBhdGggZD0iTTUgN2wtMyA3YTMuMiAzLjIgMCAwIDAgNiAwek0xOSA3bC0zIDdhMy4yIDMuMiAwIDAgMCA2IDB6Ii8%2BPC9nPjwvc3ZnPg%3D%3D" alt="License"></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-a1cfe8?style=for-the-badge&amp;labelColor=2d3438&amp;color=a1cfe8&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjYTFjZmU4IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTEyIDN2MThNNyAyMWgxME01IDdoMTRNMTIgM2wtMSA0aDJ6Ii8%2BPHBhdGggZD0iTTUgN2wtMyA3YTMuMiAzLjIgMCAwIDAgNiAwek0xOSA3bC0zIDdhMy4yIDMuMiAwIDAgMCA2IDB6Ii8%2BPC9nPjwvc3ZnPg%3D%3D" alt="MIT license"></a>
 
 <sub>© Elliot Luque</sub>
 
