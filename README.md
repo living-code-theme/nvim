@@ -1,9 +1,27 @@
 <!-- living-code-readme:1 -->
+<div align="center">
+
+<a href="https://living-code.dev"><img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/brand/favicon.svg" width="64" height="64" alt="Living Code [lc] mark"></a>
+
 # 📝 Living Code for Neovim
 
-**Calm slate. Living color.** Living Code for Neovim. Four color flavors, Tree-sitter and LSP highlights, and lualine integration.
+**Calm slate. Living color.**<br>Living Code for Neovim. Four color flavors, Tree-sitter and LSP highlights, and lualine integration.
+
+<img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/swatches/00a692.svg" width="14" height="14" alt="teal #00a692"> <img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/swatches/52d7c1.svg" width="14" height="14" alt="mint #52d7c1"> <img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/swatches/9ae0dd.svg" width="14" height="14" alt="aqua #9ae0dd"> <img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/swatches/80b6d3.svg" width="14" height="14" alt="steel #80b6d3"> <img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/swatches/8acb83.svg" width="14" height="14" alt="moss #8acb83"> <img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/swatches/f0be6d.svg" width="14" height="14" alt="amber #f0be6d"> <img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/swatches/e18c5f.svg" width="14" height="14" alt="copper #e18c5f"> <img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/swatches/e96560.svg" width="14" height="14" alt="flare #e96560"> <img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/swatches/bf91cd.svg" width="14" height="14" alt="orchid #bf91cd"> <img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/swatches/ddaec3.svg" width="14" height="14" alt="rose #ddaec3">
+
+<a href="https://neovim.io"><img src="https://img.shields.io/badge/Neovim-colorscheme-00a692?style=flat-square&logo=neovim&logoColor=e2e9ee&labelColor=05080b" alt="Neovim colorscheme"></a>
+<a href="https://github.com/living-code-theme/nvim/actions/workflows/check.yml"><img src="https://img.shields.io/github/actions/workflow/status/living-code-theme/nvim/check.yml?branch=main&style=flat-square&label=check&logo=githubactions&logoColor=e2e9ee&labelColor=05080b&color=00a692" alt="Check status"></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-00a692?style=flat-square&labelColor=05080b" alt="MIT license"></a>
+<a href="https://living-code.dev"><img src="https://img.shields.io/badge/living--code.dev-all%20ports-00a692?style=flat-square&labelColor=05080b" alt="living-code.dev"></a>
+
+<a href="images/night.png"><img src="https://img.shields.io/badge/Night-dark-00a692?style=flat-square&labelColor=05080b" alt="Night flavor"></a>
+<a href="images/frost.png"><img src="https://img.shields.io/badge/Frost-soft-43a997?style=flat-square&labelColor=0a1016" alt="Frost flavor"></a>
+<a href="images/paper.png"><img src="https://img.shields.io/badge/Paper-light-187d6e?style=flat-square&labelColor=f4f7f9" alt="Paper flavor"></a>
+<a href="images/signal.png"><img src="https://img.shields.io/badge/Signal-one%20accent-00a692?style=flat-square&labelColor=05080b" alt="Signal flavor"></a>
 
 [Installation](#installation) · [Flavors](#flavors) · [Configuration](#configuration) · [All ports](https://github.com/living-code-theme)
+
+</div>
 
 ## Previews
 
@@ -145,7 +163,11 @@ Found a problem? [Open an issue](https://github.com/living-code-theme/nvim/issue
 
 Pull requests are welcome. Keep this README, `port.json` and `images/` in sync, and use real screenshots of the app, never mockups.
 
-🦎 **One chameleon, many habitats.** Part of [Living Code](https://github.com/living-code-theme).
+<div align="center">
+
+<sub>🦎 <b>One chameleon, many habitats.</b> Part of <a href="https://github.com/living-code-theme">Living Code</a>.</sub>
+
+</div>
 
 ## License
 
