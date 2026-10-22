@@ -14,11 +14,6 @@
 <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-00a692?style=flat-square&labelColor=05080b" alt="MIT license"></a>
 <a href="https://living-code.dev"><img src="https://img.shields.io/badge/living--code.dev-all%20ports-00a692?style=flat-square&labelColor=05080b" alt="living-code.dev"></a>
 
-<a href="images/night.png"><img src="https://img.shields.io/badge/Night-dark-00a692?style=flat-square&labelColor=05080b" alt="Night flavor"></a>
-<a href="images/frost.png"><img src="https://img.shields.io/badge/Frost-soft-43a997?style=flat-square&labelColor=0a1016" alt="Frost flavor"></a>
-<a href="images/paper.png"><img src="https://img.shields.io/badge/Paper-light-187d6e?style=flat-square&labelColor=f4f7f9" alt="Paper flavor"></a>
-<a href="images/signal.png"><img src="https://img.shields.io/badge/Signal-one%20accent-00a692?style=flat-square&labelColor=05080b" alt="Signal flavor"></a>
-
 [Installation](#installation) · [Flavors](#flavors) · [Configuration](#configuration) · [All ports](https://github.com/living-code-theme)
 
 </div>
